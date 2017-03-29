@@ -12,6 +12,7 @@
     "enzyme": "^2.8.0",
     "react-addons-test-utils": "^15.4.2",
     "react-scripts": "0.9.5",
+    "react-test-renderer": "^15.4.2",
     "tachyons-cli": "^1.0.10"
   },
   "scripts": {
