@@ -14,7 +14,8 @@
     "react-addons-test-utils": "^15.4.2",
     "react-scripts": "0.9.5",
     "react-test-renderer": "^15.4.2",
-    "tachyons-cli": "^1.0.10"
+    "tachyons-cli": "^1.0.10",
+    "@kadira/storybook": "^2.21.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -23,6 +24,8 @@
     "eject": "react-scripts eject",
     "css": "tachyons src/styles/app.css > src/index.css --minify",
     "prestart": "npm run css",
-    "prebuild": "npm run css"
+    "prebuild": "npm run css",
+    "storybook": "start-storybook --dont-track -p 9009 -s public",
+    "build-storybook": "build-storybook --dont-track -s public"
   }
 }
