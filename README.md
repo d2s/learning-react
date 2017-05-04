@@ -1,6 +1,6 @@
 # Learning React
 [![dependencies](https://david-dm.org/d2s/learning-react.svg)](https://david-dm.org/d2s/learning-react)
-[![dependencies](https://codeclimate.com/github/d2s/learning-react/badges/issue_count.svg](https://codeclimate.com/github/d2s/learning-react)
+[![Code Climate](https://codeclimate.com/github/d2s/learning-react/badges/issue_count.svg)](https://codeclimate.com/github/d2s/learning-react)
 
 This is a learning experiement for practicing new skills with [React](https://facebook.github.io/react/).
 
