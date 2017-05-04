@@ -1,4 +1,5 @@
 # Learning React
+[![dependencies](https://david-dm.org/d2s/learning-react.svg)](https://david-dm.org/d2s/learning-react)
 
 This is a learning experiement for practicing new skills with [React](https://facebook.github.io/react/).
 
