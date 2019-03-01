@@ -14,6 +14,23 @@ engines:
     enabled: true
   fixme:
     enabled: true
+plugins:
+  csslint:
+    enabled: true
+  editorconfig:
+    enabled: true
+  eslint:
+    enabled: true
+  fixme:
+    enabled: true
+  git-legal:
+    enabled: true
+  markdownlint:
+    enabled: true
+  shellcheck:
+    enabled: true
+  stylelint:
+    enabled: true
 ratings:
   paths:
   - "**.css"
