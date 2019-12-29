@@ -7,12 +7,13 @@
     "ramda": "^0.23.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "tachyons": "^4.6.2"
+    "tachyons": "^4.6.2",
+    "snyk": "^1.267.0"
   },
   "devDependencies": {
     "enzyme": "^2.8.0",
     "react-addons-test-utils": "^15.4.2",
-    "react-scripts": "0.9.5",
+    "react-scripts": "2.1.3",
     "react-test-renderer": "^15.4.2",
     "tachyons-cli": "^1.0.10",
     "@kadira/storybook": "^2.21.0"
@@ -26,6 +27,9 @@
     "prestart": "npm run css",
     "prebuild": "npm run css",
     "storybook": "start-storybook --dont-track -p 9009 -s public",
-    "build-storybook": "build-storybook --dont-track -s public"
-  }
+    "build-storybook": "build-storybook --dont-track -s public",
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
+  },
+  "snyk": true
 }
