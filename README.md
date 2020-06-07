@@ -1,24 +1,17 @@
 # Learning React
 
-This is a learning experiement for practicing new skills with [React](https://facebook.github.io/react/).
+This is a learning experiement for practicing [React](https://reactjs.org/) related skills.
 
 ## Features
 
 - `components` structure for more clear starting point.
 - Examples of how to use Jest based testing tools.
   - ReactDOM for testing component with sub-components
-  - Enzyme –based shallow component rendering
+  - Enzyme-based shallow component rendering
   - Jest Snapshot testing for looking at the output of a component.
 - [Tachyons](http://tachyons.io/) CSS visual style library for improved productivity.
   - Tachyons integration to React was partially based on a 3rd party [documentation](https://github.com/tachyons-css/tachyons-and-react) (even while that guide was a bit outdated).
 - _More to come…_
-
-
-## Why I share this openly?
-
-- I want to give a better examples of how things could be made.
-- Helps to track the learning process better, when it is shared with others.
-
 
 ## Feedback
 
