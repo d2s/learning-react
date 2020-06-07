@@ -1,36 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
 exports[`With Snapshot Testing Header renders the same way 1`] = `
 <header
-  className="tc pv4 pv5-ns">
+  className="tc pv4 pv5-ns"
+>
   <nav
-    className="pa3 pa4-ns">
+    className="pa3 pa4-ns"
+  >
     <a
       className="link dim gray f6 f5-ns dib mr3"
       href="#"
-      title="Site Name">
+      title="Site Name"
+    >
       Site Name
     </a>
     <a
       className="link dim gray f6 f5-ns dib mr3"
       href="#"
-      title="Home">
+      title="Home"
+    >
       Home
     </a>
     <a
       className="link dim gray f6 f5-ns dib mr3"
       href="#"
-      title="About">
+      title="About"
+    >
       About
     </a>
     <a
       className="link dim gray f6 f5-ns dib mr3"
       href="#"
-      title="Store">
+      title="Store"
+    >
       Store
     </a>
     <a
       className="link dim gray f6 f5-ns dib mr3"
       href="#"
-      title="Contact">
+      title="Contact"
+    >
       Contact
     </a>
   </nav>
