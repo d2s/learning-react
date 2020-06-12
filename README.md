@@ -1,6 +1,6 @@
 # Learning React
 
-This is a learning experiement for practicing [React](https://reactjs.org/) related skills.
+This is a learning experiment for practicing [React](https://reactjs.org/) related skills.
 
 ## Features
 
