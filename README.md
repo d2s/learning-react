@@ -2,6 +2,8 @@
 
 This is a learning experiment for practicing [React](https://reactjs.org/) related skills.
 
+_NOTE:_ This repository was originally created in early 2017, and is under repair towards a more recent React version.
+
 ## Features
 
 - `components` structure for more clear starting point.
