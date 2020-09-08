@@ -8,7 +8,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "tachyons": "4.12.0",
-    "snyk": "1.387.0"
+    "snyk": "1.392.1"
   },
   "devDependencies": {
     "enzyme": "3.11.0",
